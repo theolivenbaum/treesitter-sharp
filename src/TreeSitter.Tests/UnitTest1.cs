@@ -1,4 +1,4 @@
-﻿namespace GoTreeSitter.Tests;
+namespace TreeSitter.Tests;
 
 public class UnitTest1
 {
